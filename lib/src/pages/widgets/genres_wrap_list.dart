@@ -38,7 +38,7 @@ class GenresWrapList extends StatelessWidget {
             child: Text(
               movieGenres[1].name + '',
               style: TextStyle(
-                color: Colors.purple[900],
+                color: Colors.grey[900],
                 fontWeight: FontWeight.w500,
                 fontSize: 15
               ),
